@@ -39,14 +39,13 @@ To Run the project
 #### `The above command will create a directory "Art Gallery" and a child Directory named "sample". Inside the "sample" directory the art image of size 1024 x 1024 will be generated and stored.` 
 
 ## Sample Art
+<img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_12.png" alt="sample art 1" width="256px" height="256px"/>
 
-![sample art 1](https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_12.png)
+<img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_2.png" alt="sample art 2" width="256px" height="256px"/>
 
-![sample art 2](https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_2.png)
+<img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/srajan/srajan_image_0.png" alt="sample art 3" width="256px" height="256px"/>
 
-![sample art 3](https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/srajan/srajan_image_0.png)
-
-![sample art 4](https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png)
+<img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png" alt="sample art 4" width="256px" height="256px"/>
 
 ## License
 
