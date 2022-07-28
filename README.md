@@ -44,9 +44,13 @@ To Run the project
 
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_2.png" alt="sample art 2" align="right" width="256px" height="256px"/>
 
+<br>
+
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/srajan/srajan_image_0.png" align="left" alt="sample art 3" width="256px" height="256px"/>
 
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png" align="right" alt="sample art 4" width="256px" height="256px"/>
+
+<br>
 
 ## License
 
