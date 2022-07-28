@@ -51,7 +51,7 @@ To Run the project
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/srajan/srajan_image_0.png" alt="sample art 3" width="256px" height="256px"/>
 </a>
 
-<a herf = "https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png">
+<a href = "https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png">
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_31.png" alt="sample art 4" width="256px" height="256px"/>
 </a>
 
@@ -59,7 +59,7 @@ To Run the project
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_13.png" alt="sample art 5" width="256px" height="256px"/>
 </a>
 
-<a herf = "https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_18.png">
+<a href = "https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_18.png">
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_18.png" alt="sample art 6" width="256px" height="256px"/>
 </a>
 
